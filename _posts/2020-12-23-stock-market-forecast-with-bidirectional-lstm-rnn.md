@@ -1,15 +1,15 @@
 ---
 layout: inner
 position: left
-title: 'Stock Market Forecast with Bidrectional LSTM RNN'
+title: 'Stock Market Forecast'
 date: 2020-12-23 12:00:00
 categories: personal-project
 tags: JavaScript AngularJS API Sass
-featured_image: '01-weekly-prediction-regulartimes.png'
+featured_image: '/img/posts/01-weekly-prediction-regulartimes.png'
 project_link: 'https://github.com/ianyu93/stock-market-forecast.git'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'My first-time project to build a longer-term stock market forecast as the first step towards my goal of building an asset allocator optimizer.'
+lead_text: 'Alonger-term stock market forecast with Bidrectional LSTM RNN as the first step towards my goal of building an asset allocator optimizer.'
 ---
 
 ## **OBJECTIVE**
