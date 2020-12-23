@@ -26,7 +26,7 @@ linkedin_username: 'ian-yu1'
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
 plugins:
-  - jekyll-paginate-v1
+  - jekyll-paginate
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
