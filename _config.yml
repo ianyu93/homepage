@@ -21,6 +21,7 @@ url: "https://ianyu93.github.io" # the base hostname & protocol for your site, e
 twitter_username: 'ianyu93'
 github_username: 'ianyu93'
 medium_username: 'medium.com/me/publications'
+linkedin_username: 'ian-yu1'
 
 # Build settings
 markdown: kramdown
