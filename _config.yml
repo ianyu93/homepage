@@ -16,7 +16,7 @@
 title: "Hello. I'm Ian Yu"
 email: 'ian.yu@arc.com.co'
 description: "Data Scientist helping clients strategize with intelligence that matters."
-baseurl: "/homepage" # the subpath of your site, e.g. /blog
+baseurl: "/homepage/" # the subpath of your site, e.g. /blog
 url: "https://ianyu93.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 github_username: 'ianyu93'
 medium_username: 'medium.com/me/publications'
