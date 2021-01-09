@@ -9,5 +9,5 @@ featured_image: '/img/posts/03-EfficientFrontier.png'
 project_link: 'https://stormy-dawn-49490.herokuapp.com/'
 button_icon: 'chrome'
 button_text: 'Visit Web App'
-lead_text: 'A work in progress, based on the Stock Market Forecast project, predicting 5 major markets and seek Efficient Frontier across markets.'
+lead_text: 'Forecasting returns and risks for 5 major markets, and allocate investment weighting to maximize return while minimizing risks.'
 ---
