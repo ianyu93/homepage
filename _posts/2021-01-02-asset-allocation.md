@@ -9,5 +9,5 @@ featured_image: '/img/posts/03-EfficientFrontier.png'
 project_link: 'https://stormy-dawn-49490.herokuapp.com/'
 button_icon: 'chrome'
 button_text: 'Visit Web App'
-lead_text: 'Forecasting returns and risks for 5 major markets, and allocate investment weighting to maximize return while minimizing risks.'
+lead_text: 'Forecasting returns and risks for 5 major markets with a neural network, and allocate investment weighting to maximize return while minimizing risks.'
 ---
