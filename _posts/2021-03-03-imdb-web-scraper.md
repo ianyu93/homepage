@@ -5,7 +5,7 @@ title: 'IMDb Web Scraper Package'
 date: 2021-03-03 12:00:00
 categories: work-project
 tags: PyPI Webscrape IMDbL
-featured_image: '/img/posts/02-AmazonGo.png'
+featured_image: '/img/posts/04-imdb.png'
 project_link: 'https://test.pypi.org/project/imdbwebscraper/'
 button_icon: 'code-fork'
 button_text: 'TestPyPI'
