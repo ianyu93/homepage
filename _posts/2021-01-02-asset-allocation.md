@@ -4,7 +4,7 @@ position: left
 title: 'Asset Allocation System'
 date: 2021-01-03 12:00:00
 categories: personal-project
-tags: Streamlit Heroku Makefile 
+tags: Streamlit Makefile 
 featured_image: '/img/posts/03-EfficientFrontier.png'
 project_link: 'https://ianyu93-aasystem-app-app-yuejiv.streamlit.app/'
 button_icon: 'chrome'
