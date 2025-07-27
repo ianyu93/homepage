@@ -1,4 +1,4 @@
-baseurl = "http://ianyu93.github.io/homepage/"
+baseurl = "https://ianyu93.github.io/homepage/"
 title = "Expiscor"
 theme = "coder"
 languagecode = "en"
