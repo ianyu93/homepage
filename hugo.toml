@@ -21,7 +21,7 @@ style = "github-light"
 
 [params]
   author = "Ian Yu"
-  info = "My Journey of Pragmatic AI Engineer"
+  info = "My Pragmatic AI Engineer Journey"
   description = "Ian Yu's Personal Blog"
   keywords = "blog,developer,personal"
   # avatarurl = "images/avatar.jpg"
