@@ -1,0 +1,80 @@
+baseurl = "http://ianyu93.github.io/homepage/"
+title = "Expiscor"
+theme = "coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+
+[pagination]
+pagerSize = 20
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[services]
+[services.disqus]
+shortname = "ianyu"
+
+[markup.highlight]
+style = "github-light"
+
+[params]
+  author = "Ian Yu"
+  info = "My Journey of Pragmatic AI Engineer"
+  description = "Ian Yu's Personal Blog"
+  keywords = "blog,developer,personal"
+  # avatarurl = "images/avatar.jpg"
+  #gravatar = "john.doe@example.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2019
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/ianyu93"
+
+# Social links
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 1
+  url = "https://www.linkedin.com/in/ian-yu1/"
+
+
+[[params.social]]
+  name = "Twitter"
+  icon = "fa-brands fa-x-twitter fa-2x"
+  weight = 3
+  url = "https://x.com/ianyu93"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
